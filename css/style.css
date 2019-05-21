@@ -1,0 +1,24 @@
+#heading {
+  font-size: 2rem;
+}
+#chart-area svg {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#logo {
+  height: 50px;
+}
+
+.navbar-brand {
+  height: 60px;
+  padding: 5px 0px;
+}
+
+#year-label {
+  font-size: 80px;
+  /* font-weight: bold; */
+  color: grey;
+  opacity: 0.1;
+}
